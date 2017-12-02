@@ -1,6 +1,8 @@
 # hello-world
 
-Hi Everybody!
+Hello Sugar Labs
 
-Nikita here, I am fron-end web developer from Russia. I like react, native javascript, node.js.
-I am also fan of Ubuntu.
+Nikita in da house😎
+I am web developer from Russia.
+I like react, native JavaScript and node.js.
+I am also a fan of Ubuntu.
